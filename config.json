@@ -1,0 +1,7 @@
+{
+    "overseerrAPIKEY": "",
+    "sonarrAPIKEY": "",
+    "tmdbAPIKEY": "",
+    "overseerrUrlBase": "http://example.net:5055",
+    "sonarrUrlBase": "http://example.net:8989"
+}
